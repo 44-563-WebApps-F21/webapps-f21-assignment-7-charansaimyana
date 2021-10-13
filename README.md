@@ -3,5 +3,5 @@ An assignment on java script modifying the DOM and using anonymous callback func
 
 
 "Hosted at" https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-charansaimyana/search.html
-            https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-charansaimyana/reaction.html
-            https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-charansaimyana/stack.html
+[reaction](https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-charansaimyana/reaction.html)
+[stack](https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-charansaimyana/stack.html)
